@@ -1,5 +1,0 @@
-# Job: test
-# Query: 1jebA
-# No:  Chain   Z    rmsd lali nres  %id PDB  Description
-   1:  3rgk-A 22.5  1.4  140   149   26   MOLECULE: MYOGLOBIN;                                                 
-

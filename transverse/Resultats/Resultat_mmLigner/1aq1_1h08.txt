@@ -1,9 +1,0 @@
-Alignment 1 stats
-Structure Sizes =   283, 277
-Coverage        =   277      
-RMSD            =     1.250 A
-I(A)            =    40.273 bits
-NULL(S & T)     = 19609.775 bits
-I(A & <S,T>)    = 18555.411 bits
-Compression     =  1054.364 bits (+ve better; -ve worse)
-

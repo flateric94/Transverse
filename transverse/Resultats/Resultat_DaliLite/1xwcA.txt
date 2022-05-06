@@ -1,5 +1,0 @@
-# Job: test
-# Query: 1xwcA
-# No:  Chain   Z    rmsd lali nres  %id PDB  Description
-   1:  3trx-A 18.1  1.5  105   105   49   MOLECULE: THIOREDOXIN;                                               
-

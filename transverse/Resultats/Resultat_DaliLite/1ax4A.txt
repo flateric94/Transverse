@@ -1,4 +1,0 @@
-# Job: test
-# Query: 1ax4A
-# No:  Chain   Z    rmsd lali nres  %id PDB  Description
-

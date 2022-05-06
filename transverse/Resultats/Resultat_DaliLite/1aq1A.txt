@@ -1,5 +1,0 @@
-# Job: test
-# Query: 1aq1A
-# No:  Chain   Z    rmsd lali nres  %id PDB  Description
-   1:  1h08-A 42.8  0.8  277   283  100   MOLECULE: CELL DIVISION PROTEIN KINASE 2;                            
-

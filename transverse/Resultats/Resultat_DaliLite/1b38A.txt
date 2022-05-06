@@ -1,5 +1,0 @@
-# Job: test
-# Query: 1b38A
-# No:  Chain   Z    rmsd lali nres  %id PDB  Description
-   1:  1e1v-A 46.7  0.5  290   290  100   MOLECULE: CYCLIN-DEPENDENT PROTEIN KINASE 2;                         
-
