@@ -20,7 +20,9 @@ Les outils qui ont été choisis sont :
 L'outil developper permet à l'utilisateur l'utilisation des 4 logiciels qui devront êtres installer (voir section # INSTALLATION), et renverra une évaluation détaillée de chacun d'entre eux.
 
 # STATUT DU PROJET 
-Developpement fini. Cependant, le code ne permet pas l'ajout d'autres logiciels de superposition.
+Projet non terminé :
+- configurer la fonction script.py pour automatiser le reste du code.
+- fichier de résultat à implémenter
 
 # INSTALLATION
 NOTE IMPORTANTE : tous les logiciels qui devront êtres installé doivent impérativement êtres mis dans le dossier transverse\ pour veiller au bon fonctionnement du code. 
@@ -75,14 +77,12 @@ python3 a bien été installé.
 
 # EXECUTION DU PROGRAMME 
 Dans le terminal, executer le code lancement.py par :
-python3 lancement.py [PDB FILE 1] [CHAINE PDB1] [PDB FILE 2] [CHAINE PDB2]
+python3 script.py [PDB FILE 1] [CHAINE PDB1] [PDB FILE 2] [CHAINE PDB2]
 par
 Le code s'execute et vous demande de nommer votre fichier de resultat pour chacun des logiciels, à l'exception de mmligner_1.0.2 qui le nommera pour vous.
 Par exemple, pour l'utilisation de [pdb1] avec [pdb2], le rendu sera sous la forme de : [pdb1].pdb_superposed__1.pdb .
 Une fois l'execution des programmes terminée, il est possible de consulter dans les dossiers de résultats associés à chaque logiciel le rendu des fichier de superposition.
-Aussi, [fichier de resultat]
 
-ANALYSE DU FICHIER RESULTAT
 
 
   
