@@ -38,6 +38,9 @@ Si un message d'erreur apparait pour la commande make, c'est que votre machine n
 sudo apt-get install g++    
 puis relancer make. Le bin contient maintenant l'executable qui fera marcher le code pour la suite.
 
+ATTENTION : MUSTANG_v3.2.3 ne peut pas lire des pdb qui ont plusieurs chaînes.
+Il faut donc modifier le fichier pdb pour y recuperer l'unique chaîne intérressée.
+
 - DaliLite.v5
 telechargement du code source par le lien :
 wget http://ekhidna2.biocenter.helsinki.fi/dali/DaliLite.v5.tar.gz
