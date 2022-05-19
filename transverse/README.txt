@@ -20,9 +20,7 @@ Les outils qui ont été choisis sont :
 L'outil developper permet à l'utilisateur l'utilisation des 4 logiciels qui devront êtres installer (voir section # INSTALLATION), et renverra une évaluation détaillée de chacun d'entre eux.
 
 # STATUT DU PROJET 
-Projet non terminé :
-- configurer la fonction script.py pour automatiser le reste du code.
-- fichier de résultat à implémenter
+Developpement fini. Cependant, le code ne permet pas l'ajout d'autres logiciels de superposition.
 
 # INSTALLATION
 NOTE IMPORTANTE : tous les logiciels qui devront êtres installé doivent impérativement êtres mis dans le dossier transverse\ pour veiller au bon fonctionnement du code. 
@@ -39,9 +37,6 @@ aller dans transverse/MUSTANG_v3.2.3/bin, puis taper "make".
 Si un message d'erreur apparait pour la commande make, c'est que votre machine ne le comprend pas, taper alors : 
 sudo apt-get install g++    
 puis relancer make. Le bin contient maintenant l'executable qui fera marcher le code pour la suite.
-
-ATTENTION : MUSTANG_v3.2.3 ne peut pas lire des pdb qui ont plusieurs chaînes.
-Il faut donc modifier le fichier pdb pour y recuperer l'unique chaîne intérressée.
 
 - DaliLite.v5
 telechargement du code source par le lien :
@@ -77,12 +72,14 @@ python3 a bien été installé.
 
 # EXECUTION DU PROGRAMME 
 Dans le terminal, executer le code lancement.py par :
-python3 script.py [PDB FILE 1] [CHAINE PDB1] [PDB FILE 2] [CHAINE PDB2]
+python3 lancement.py [PDB FILE 1] [CHAINE PDB1] [PDB FILE 2] [CHAINE PDB2]
 par
 Le code s'execute et vous demande de nommer votre fichier de resultat pour chacun des logiciels, à l'exception de mmligner_1.0.2 qui le nommera pour vous.
 Par exemple, pour l'utilisation de [pdb1] avec [pdb2], le rendu sera sous la forme de : [pdb1].pdb_superposed__1.pdb .
 Une fois l'execution des programmes terminée, il est possible de consulter dans les dossiers de résultats associés à chaque logiciel le rendu des fichier de superposition.
+Aussi, [fichier de resultat]
 
+ANALYSE DU FICHIER RESULTAT
 
 
   
