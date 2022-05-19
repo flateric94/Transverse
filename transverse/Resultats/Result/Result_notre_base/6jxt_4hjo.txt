@@ -1,0 +1,10 @@
+Superposition 6jxt_4hjo
+
+Query: 6jxt (reference)	 size: 1022
+Target: 4hjo		 size: 998
+
+Method		RMSD	nbr_residues_sup	RMSD_Recalculated	diff_2_rmsd	TM_score	TM_score_to_compare	GDT_HA		GDT_TS	
+Dali		1.2		268			0.84		0.36		0.26			NA		21.06		24.68		
+TM_Align	1.77		272			0.8		0.97		0.25			0.94		21.5		24.54		
+mmLigner	1.49		265			0.86		0.63		0.26			NA		20.43		24.51		
+Mustang	1.9		NA			0.93		0.97		0.26			NA		19.06		23.95		

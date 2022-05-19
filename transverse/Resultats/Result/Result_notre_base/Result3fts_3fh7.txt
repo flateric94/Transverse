@@ -1,0 +1,10 @@
+Superposition 3fts_3fh7
+
+Query: 3fts (reference)	 size: 610
+Target: 3fh7		 size: 610
+
+Method		RMSD	nbr_residues_sup	RMSD_Recalculated	diff_2_rmsd	TM_score	TM_score_to_compare	GDT_HA		GDT_TS	
+Dali		0.2		607			0.17		0.03		0.99			NA		99.26		99.51		
+TM_Align	0.17		607			0.17		0.0		0.99			1.0		99.26		99.51		
+mmLigner	0.17		607			0.17		0.0		0.99			NA		99.26		99.51		
+Mustang	0.2		NA			0.17		0.03		0.99			NA		99.26		99.51		

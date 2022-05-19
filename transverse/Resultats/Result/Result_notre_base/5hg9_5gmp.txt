@@ -1,0 +1,10 @@
+Superposition 5hg9_5gmp
+
+Query: 5hg9 (reference)	 size: 1022
+Target: 5gmp		 size: 1022
+
+Method		RMSD	nbr_residues_sup	RMSD_Recalculated	diff_2_rmsd	TM_score	TM_score_to_compare	GDT_HA		GDT_TS	
+Dali		2.2		269			1.32		0.88		0.24			NA		16.63		21.65		
+TM_Align	2.05		268			1.14		0.91		0.24			0.83		19.45		22.77		
+mmLigner	1.5		257			1.24		0.26		0.25			NA		18.84		22.77		
+Mustang	2.5		NA			1.38		1.12		0.24			NA		16.02		21.11		

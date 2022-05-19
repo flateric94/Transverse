@@ -1,0 +1,10 @@
+Superposition 3trx_1xwc
+
+Query: 3trx (reference)	 size: 105
+Target: 1xwc		 size: 106
+
+Method		RMSD	nbr_residues_sup	RMSD_Recalculated	diff_2_rmsd	TM_score	TM_score_to_compare	GDT_HA		GDT_TS	
+Dali		1.5		105			1.22		0.28		0.86			NA		58.57		80.48		
+TM_Align	1.36		104			1.18		0.18		0.86			0.88		61.43		81.9		
+mmLigner	1.51		105			1.22		0.29		0.86			NA		58.57		80.48		
+Mustang	1.5		NA			1.22		0.28		0.86			NA		58.57		80.48		

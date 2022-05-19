@@ -1,0 +1,10 @@
+Superposition 5gmp_5u8l
+
+Query: 5gmp (reference)	 size: 1022
+Target: 5u8l		 size: 1022
+
+Method		RMSD	nbr_residues_sup	RMSD_Recalculated	diff_2_rmsd	TM_score	TM_score_to_compare	GDT_HA		GDT_TS	
+Dali		1.9		274			1.35		0.55		0.25			NA		16.71		22.16		
+TM_Align	2.03		276			1.2		0.83		0.25			0.9		18.15		22.8		
+mmLigner	1.39		260			1.29		0.1		0.25			NA		18.2		22.95		
+Mustang	2.5		NA			1.48		1.02		0.25			NA		14.95		20.69		

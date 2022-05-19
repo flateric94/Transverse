@@ -1,0 +1,10 @@
+Superposition 1aq1_1h08
+
+Query: 1aq1 (reference)	 size: 298
+Target: 1h08		 size: 298
+
+Method		RMSD	nbr_residues_sup	RMSD_Recalculated	diff_2_rmsd	TM_score	TM_score_to_compare	GDT_HA		GDT_TS	
+Dali		0.8		277			0.78		0.02		0.91			NA		76.51		88.67		
+TM_Align	0.80		277			0.77		0.03		0.91			0.96		76.76		88.42		
+mmLigner	1.25		277			0.77		0.48		0.91			NA		76.68		88.42		
+Mustang	0.8		NA			0.78		0.02		0.91			NA		76.51		88.67		
